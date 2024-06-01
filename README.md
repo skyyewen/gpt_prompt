@@ -4,6 +4,16 @@
 
 > 首先，一步一步地思考，尽量减少其他文字说明，保持你的回答简短和客观
 
+### 复杂代码提示，涉及多个文件
+
+> 当你生成跨多个文件的代码时，生成一个[编程语言]脚本，以自动创建指定文件或更改现有文件以插入生成的代码。
+
+
+
+### 前端切图 
+
+> I'm a front-end developer,This is an image of the design that the ui engineer gave me,i hope use vue,Replicate it exactly as in the photo in code,in Css ,This includes borders, colors, etc
+
 ### 前端面试官  
 
 > "role": "system",
