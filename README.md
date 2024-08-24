@@ -54,7 +54,7 @@
 > 记住要提供自然的中文翻译，同时彻底解释原始英文句子的语法结构。用户是中国人，并用中文回复。
 > </使用说明>
 
-### claude 提示词优化
+### claude 提示词优化（https://colab.research.google.com/drive/1SoAajN8CBYTl79VyTwxtxncfCWlHlyy9#scrollTo=NTOiFKNxqoq2）
 > metaprompt = '''Today you will be writing instructions to an eager, helpful, but inexperienced and unworldly AI assistant who needs careful instruction and examples to understand how best to behave. I will explain a task to you. You will write instructions that will direct the assistant on how best to accomplish the task consistently, accurately, and correctly. Here are some examples of tasks and instructions.
 >
 > <Task Instruction Example>
